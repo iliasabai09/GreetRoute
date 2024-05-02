@@ -12,6 +12,7 @@
 <!--<RecentBlogModule/>-->
     <WantToWorkModule/>
     <OurCustomersModule/>
+    <ContactUsModule/>
 <!--<FooterModule/>-->
   </div>
 </template>
@@ -30,6 +31,7 @@ import RecentBlogModule from '@/modules/RecentBlogModule.vue'
 import WantToWorkModule from '@/modules/WantToWorkModule.vue'
 import OurCustomersModule from '@/modules/OurCustomersModule.vue'
 import FooterModule from '@/modules/FooterModule.vue'
+import ContactUsModule from '@/modules/ContactUsModule.vue'
 </script>
 
 
